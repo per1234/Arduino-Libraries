@@ -11,9 +11,9 @@ ThumbStick	KEYWORD1
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
-getH		KEYWORD2
-getV		KEYWORD2
-getS		KEYWORD2
+getH	KEYWORD2
+getV	KEYWORD2
+getS	KEYWORD2
 getMapLow	KEYWORD2
 getMapHigh	KEYWORD2
 getCenter	KEYWORD2

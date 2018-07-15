@@ -6,12 +6,12 @@
 # Datatypes (KEYWORD1)                # 
 #######################################
 
-pushbutton		KEYWORD1
+pushbutton	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
-isPressed		KEYWORD2
+isPressed	KEYWORD2
 
 
 #######################################
